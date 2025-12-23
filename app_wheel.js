@@ -1,5 +1,5 @@
-import { Lost } from '/lost.js';
-import { LostUI } from '/lost-ui.js';
+import { Lost } from './vendor/lost/lost.js';
+import { LostUI } from './vendor/lost/lost-ui.js';
 
 const DEFAULT_CONFIG = {
   title: 'Wheel of Choices',
